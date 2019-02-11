@@ -1,0 +1,6 @@
+D:\Work\VS2017\RunScreenSaver\RunScreenSaver\bin\x64\Debug\RunScreenSaver.exe.config
+D:\Work\VS2017\RunScreenSaver\RunScreenSaver\bin\x64\Debug\RunScreenSaver.exe
+D:\Work\VS2017\RunScreenSaver\RunScreenSaver\bin\x64\Debug\RunScreenSaver.pdb
+D:\Work\VS2017\RunScreenSaver\RunScreenSaver\obj\x64\Debug\RunScreenSaver.csproj.CoreCompileInputs.cache
+D:\Work\VS2017\RunScreenSaver\RunScreenSaver\obj\x64\Debug\RunScreenSaver.exe
+D:\Work\VS2017\RunScreenSaver\RunScreenSaver\obj\x64\Debug\RunScreenSaver.pdb
